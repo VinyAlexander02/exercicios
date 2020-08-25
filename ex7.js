@@ -2,6 +2,7 @@ function chefe() {
     ex7()
 }
 
+// Função testada 
 function ex7() {
 
     var soma = 0
