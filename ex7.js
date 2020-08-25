@@ -17,3 +17,5 @@ function ex7() {
 
     console.log(`A média dos números é ${soma / conta}`)
 }
+
+chefe()
